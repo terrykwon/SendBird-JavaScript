@@ -29,12 +29,12 @@ If you refresh your browser window, you need to reconnect to SendBird. To retain
 
 If you wish to issue an `access_token` for your user, modify the `connect function` in `src/sendbird.js`.  
 
-1. install npm
+1. Install npm
 
         npm install --save-dev
 
-2. modify files.
-3. create bundle file.
+2. Modify files.
+3. Create a bundle file.
 
         webpack -p
 

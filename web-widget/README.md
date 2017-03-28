@@ -4,7 +4,7 @@ This is a sample chat widget built using using the [SendBird SDK](https://github
 
 ## [Demo](https://sample.sendbird.com/widget/)
 
-You can try out the demo from the link here.
+You can try out a live demo from the link here.
 
 
 ## Setup

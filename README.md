@@ -7,8 +7,7 @@ The samples in this repository are fully functional messaging applications built
 
 ## Table of Contents
 
-  1. [Installation](#installing-the-sendbird-js-sdk)
-  1. [Manual download](#manual-download)
+  1. [Installing the SendBird JS SDK](#installing-the-sendbird-js-sdk)
   1. [Previous versions](#previous-versions)
   1. [Contributing](#contributing)
   

@@ -4,7 +4,7 @@ This is a sample chat widget built using using the [SendBird SDK](https://github
 
 ## [Demo](https://sample.sendbird.com/widget/)
 
-You can try out a live demo from the link [here](https://sample.sendbird.com/widget/). Click on the button at the bottom-right corner of the webpage to try out the widget.
+You can try out a live demo from the link [here](https://sample.sendbird.com/widget/). Click on the button at the bottom-right corner of the webpage to try out the widget. Choose any 'User ID' and 'Nickname' to log in and participate in chats.
 
 
 ## Setup

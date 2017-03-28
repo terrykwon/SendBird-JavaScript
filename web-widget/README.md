@@ -4,9 +4,11 @@ This is a sample `Web Widget` using [`SendBird SDK`](https://github.com/smilefam
 
 ## [Demo](https://sample.sendbird.com/widget/)
 
+You can try out the demo from the link here.
+
 
 ## Setup
-1. The `body` must have a `div` element that id is `sb_widget`.
+1. The `body` must have a `div` element whose id is `sb_widget`.
   
 ```html
 <body>
@@ -22,10 +24,10 @@ This is a sample `Web Widget` using [`SendBird SDK`](https://github.com/smilefam
 ```
 
 
-## Modify
-If you refresh browser, you need to connect `SendBird`.  
-If you want retain connect when refresh browser, appropriate `event handler` is required.  
-If you want to use `access_token`, you need to modify `connect function` in `src/sendbird.js`.  
+## Customizing the widget
+If you refresh your browser window, you need to reconnect to SendBird. To retain connection on browser refresh, you must implement an appropriate `event handler`. 
+
+If you wish to issue an `access_token` for your user, modify the `connect function` in `src/sendbird.js`.  
 
 1. install npm
 

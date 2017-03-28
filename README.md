@@ -7,16 +7,12 @@ The samples in this repository are fully functional messaging applications built
 
 ## Table of Contents
 
-  1. [Installation](#installation)
+  1. [Installation](#installing-the-sendbird-js-sdk)
   1. [Manual download](#manual-download)
   1. [Previous versions](#previous-versions)
   1. [Contributing](#contributing)
-
-1) web-sample : SendBird Standard Sample Codes for Desktop Web Browsers.
-
-2) react-native-sample : Sendbird React Native Sample Codes.
-
-## Installation
+  
+## Installing the SendBird JS SDK
   
 [Bower](http://bower.io) package for [SendBird.com](https://sendbird.com) JavaScript SDK  
 
@@ -30,9 +26,9 @@ The samples in this repository are fully functional messaging applications built
 * Now we support both React Native and NodeJS.
 
 
-## Manual download
+### Manual download
   
-You can download JS SDK Files [here](https://github.com/smilefam/SendBird-SDK-JavaScript).
+Or, you can manually download the JS SDK files [here](https://github.com/smilefam/SendBird-SDK-JavaScript).
 
 
 ## Previous versions

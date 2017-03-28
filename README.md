@@ -13,16 +13,16 @@ The samples in this repository are fully functional messaging applications built
   
 ## Installing the SendBird JS SDK
   
-[Bower](http://bower.io) package for [SendBird.com](https://sendbird.com) JavaScript SDK  
+Using [Bower](http://bower.io):
 
       bower install sendbird
 
 
-[npm](https://www.npmjs.com/package/sendbird) module for [SendBird.com](https://sendbird.com) JavaScript SDK  
+Using [npm](https://www.npmjs.com/package/sendbird):
 
       npm install sendbird
 
-* Now we support both React Native and NodeJS.
+> We now support both React Native and NodeJS.
 
 
 ### Manual download
